@@ -1,0 +1,13 @@
+.project
+.settings
+.settings/*
+bin
+bin/*
+lib
+lib/*
+project
+project/*
+target
+target/*
+.cache-main
+.classpath
